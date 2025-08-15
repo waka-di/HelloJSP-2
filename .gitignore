@@ -1,0 +1,24 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Build directories
+bin/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# If you use Maven or Gradle, ignore their build outputs
+target/
+.gradle/
+.idea/
+
+# Ignore local environment configuration
+*.iml
